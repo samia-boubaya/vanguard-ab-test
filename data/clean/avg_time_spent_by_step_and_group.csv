@@ -1,0 +1,16 @@
+process_step,test_group,time_spent_sec,step_order
+start,Control,154.43387498517376,1
+start,NOT included,154.62089552238805,1
+start,Test,148.57818336162987,1
+step_1,Control,43.00388124744655,2
+step_1,NOT included,40.96058968420279,2
+step_1,Test,37.69042043917161,2
+step_2,Control,38.673795753600125,3
+step_2,NOT included,43.01266271141415,3
+step_2,Test,48.13548868763593,3
+step_3,Control,92.95409923056513,4
+step_3,NOT included,96.38056575477064,4
+step_3,Test,96.85148321623731,4
+confirm,Control,128.64666865850015,5
+confirm,NOT included,127.62810023012017,5
+confirm,Test,128.89538006983616,5
